@@ -1,0 +1,28 @@
+{
+    "channels": [
+        {
+            "name": "Discovery Channel",
+            "number": 1
+        },
+        {
+            "name": "Eurosport",
+            "number": 2
+        },
+        {
+            "name": "MTV",
+            "number": 3
+        },
+        {
+            "name": "Animal Planet",
+            "number": 4
+        },
+        {
+            "name": "Cartoon Network",
+            "number": 5
+        }
+    ],
+    "current_channel": {
+        "name": "Discovery Channel",
+        "number": 1
+    }
+}

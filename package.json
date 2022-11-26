@@ -1,0 +1,15 @@
+{
+  "name": "cloud-remote-and-tv-part1-microservice",
+  "version": "0.1.0",
+  "description": "Cloud Remote and TV - Part 1 - Microservice",
+  "main": "index.js",
+  "author": "Ali Tursucular",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
